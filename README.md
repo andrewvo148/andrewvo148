@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Java, Golang
+- 🌱 I’m currently learning Rust
+- 🤔 I’m looking for help with scale system
+- 📫 How to reach me: skype ID - andrewhiepvn
 - 😄 Pronouns: he/him
