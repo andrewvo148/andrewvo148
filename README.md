@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Java, Golang 
-- 🔭 I’m currently working on domain-driven design, event-sourcing design, CQRS, microservice
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on Java, Golang, Rust, React, angular, nextjs
+- 🔭 I’m currently working on domain-driven design, event-sourcing design, CQRS, microservices
+- 🌱 I’m currently working on AWS services and kubernetes. 
+- 🔭 I'm researching AI and blockchain.
 - 📫 How to reach me: skype ID - andrewhiepvn
 - 😄 Pronouns: he/him
